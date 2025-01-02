@@ -7,3 +7,8 @@
 
 ![Wang-ruifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-ruifan&count_private=true&show_icons=true&hide=contribs,prs)
 
+![Wang-ruifan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-ruifan)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wang-ruifan.wang-ruifan&left_color=green&right_color=red)
+
+![Wang-ruifan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wang-ruifan&theme=github-compact)
