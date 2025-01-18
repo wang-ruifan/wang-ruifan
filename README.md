@@ -9,6 +9,6 @@
 
 ![Wang-ruifan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-ruifan)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wang-ruifan.wang-ruifan&left_color=green&right_color=red)
-
 ![Wang-ruifan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wang-ruifan&theme=github-compact)
+
+<a href="https://info.flagcounter.com/KRvJ"><img src="https://s01.flagcounter.com/map/KRvJ/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
