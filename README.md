@@ -74,6 +74,7 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
   CAN通信，ROS，3D-SLAM，激光雷达，MATLAB，Qt，自动驾驶，C++  
   CAN communication, ROS, 3D-SLAM, LiDAR, MATLAB, Qt, Autonomous Driving, C++
 - 相关仓库 Related Repositories:  
+  [![MapToolbox_ForRoadSweeper](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=MapToolbox_ForRoadSweeper)](https://github.com/wang-ruifan/MapToolbox_ForRoadSweeper)
 
 ### 基于飞腾派的建图小车 | 2024.03-2024.08
 - 项目介绍 Project Introduction：  
@@ -83,15 +84,7 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
   多核异构，核间通信，硬件驱动，FreeRTOS，ROS，Cartographer，Qt，激光雷达，SLAM，PID控制，C，C++  
   Multi-core heterogeneous, inter-core communication, hardware drive, FreeRTOS, ROS, Cartographer, Qt, LiDAR, SLAM, PID control, C, C++
 - 相关仓库 Related Repositories:  
-  
-### 打印机Windows与Android客户端 | 2024.07-2024.9
-- 项目介绍 Project Introduction：  
-  使用Qt开发Windows客户端，使用Android Studio开发Android客户端，通过TCP/IP协议与打印机进行通信，实现打印机的报文传输  
-  Develop Windows client using Qt, develop Android client using Android Studio, communicate with the printer through TCP/IP protocol, and realize the message transmission of the printer
-- 技术栈 Tech Stack:
-  TCP/IP，套接字，Qt，Android Studio，C++，Java  
-  TCP/IP, Socket, Qt, Android Studio, C++, Java
-- 相关仓库 Related Repositories:
+  [![2DSLAMCar-BasedOn-Phytiumpi](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=2DSLAMCar-BasedOn-Phytiumpi)](https://github.com/wang-ruifan/2DSLAMCar-BasedOn-Phytiumpi)
 
 ## 🤖 专业方向 Specialization
 
