@@ -74,13 +74,11 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
 我专注于机器人系统与应用开发，包括：  
 I focus on robot system and application development, including:
 
-|  |  |
-|------|---------|
-| SLAM与环境感知 | SLAM and Environment Perception |
-| 路径规划与控制 | Path Planning and Control |
-| 嵌入式系统开发 | Embedded System Development |
-| 应用软件开发 | Application Software Development |
-| 机器人系统集成与测试 | Robot System Integration and Testing |
+- SLAM与环境感知 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SLAM and Environment Perception
+- 路径规划与控制 &emsp;&emsp;&emsp;&emsp;&emsp; Path Planning and Control
+- 嵌入式系统开发 &emsp;&emsp;&emsp;&emsp;&emsp; Embedded System Development
+- 应用软件开发 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Application Software Development
+- 机器人系统集成与测试 &emsp;&emsp; Robot System Integration and Testing
 
 ## 🌐 语言能力 Language Skills
 
