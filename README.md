@@ -3,13 +3,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wang-ruifan">
 </p>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+<p align = "center">
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+  ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+</p>
 
 # Hello！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -106,10 +108,10 @@ I focus on the development of autonomous driving and robot systems, including:
 ### 打印机上位机与下位机 Printer Host and Slave | 2024.07-2024.09
 
 - 项目介绍 Project Introduction：  
-  Windows Qt上位机，Android上位机与FPGA Arm核Linux下位机通过TCP/IP通信，实现打印机的远程控制
+  Windows Qt上位机，Android上位机与FPGA Arm核Linux下位机通过TCP/IP通信，实现打印机的远程控制  
   Windows Qt host, Android host, and FPGA Arm core Linux slave communicate via TCP/IP to remotely control the printer
 
-- 相关仓库 Related Repositories:
+- 相关仓库 Related Repositories (private):
   [![Aijet-windows-qt-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-windows-qt-host)](https://github.com/wang-ruifan/Aijet-windows-qt-host)
   [![Aijet-android-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-android-host)](https://github.com/wang-ruifan/Aijet-android-host)
   [![Aijet-fpga-arm-server](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-fpga-arm-server)](https://github.com/wang-ruifan/Aijet-fpga-arm-server)
