@@ -21,42 +21,48 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programing+languages&height=40&vCenter=true&font=Fira+Code&color=00599C)  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+</p>
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frameworks&height=40&vCenter=true&font=Fira+Code&color=FCC624)  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" alt="ros" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="windows11" width="40" height="40"/>
-<img src="/icons/autoware.png" alt="autoware" width="40" height="40"/>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" alt="ros" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="windows11" width="40" height="40"/>
+  <img src="/icons/autoware.png" alt="autoware" height="40"/>
+</p>
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tools&height=40&vCenter=true&font=Fira+Code&color=F05032)  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" alt="labview" width="40" height="40"/>
-<img src="/icons/armkeil.svg" alt="armkeil" width="40" height="40"/>
-<img src="/icons/autocad.svg" alt="autocad" width="40" height="40"/>
-<img src="/icons/solidworks.svg" alt="solidworks" width="40" height="40"/>
-<img src="/icons/office.svg" alt="office" width="40" height="40"/>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" alt="labview" width="40" height="40"/>
+  <img src="/icons/armkeil.svg" alt="armkeil" width="40" height="40"/>
+  <img src="/icons/autocad.svg" alt="autocad" width="40" height="40"/>
+  <img src="/icons/solidworks.svg" alt="solidworks" width="40" height="40"/>
+  <img src="/icons/office.svg" alt="office" width="40" height="40"/>
+</p>
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hardware&height=40&vCenter=true&font=Fira+Code&color=76B900)  
 
-<img src="/icons/nvidia.svg" alt="nvidia" width="40" height="40"/>
-<img src="/icons/arm.svg" alt="arm" width="40" height="40"/>
-<img src="/icons/stmicroelectronics.svg" alt="stmicroelectronics" width="40" height="40"/>
-<img src="/icons/phytium.svg" alt="phytium" width="40" height="40"/>
+<p>
+  <img src="/icons/nvidia.svg" alt="nvidia" width="40" height="40"/>
+  <img src="/icons/arm.svg" alt="arm" width="40" height="40"/>
+  <img src="/icons/stmicroelectronics.svg" alt="stmicroelectronics" width="40" height="40"/>
+  <img src="/icons/phytium.svg" alt="phytium" width="40" height="40"/>
+</p>
 
 ## 🚀 项目经验 Projects
 
