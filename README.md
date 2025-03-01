@@ -1,12 +1,15 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wang-ruifan&count_private=true&show_icons=true&hide=contribs">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wang-ruifan&count_private=true&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wang-ruifan">
 </p>
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 # Hello！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -64,42 +67,60 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
   <img src="/icons/phytium.svg" alt="phytium" width="40" height="40"/>
 </p>
 
-## 🚀 项目经验 Projects
-
-### 小型自动驾驶清扫车 | 2024.10-2025.02
-- 项目介绍 Project Introduction：  
-  使用线控底盘、3D激光雷达与GNSS，在Jetson Xavier NX上部署ROS与Autoware，结合高精地图信息，通过CAN控制底盘实现清扫车在校园内路面的自动驾驶，自动清扫与覆盖式清扫  
-  Using a drive-by-wire chassis, 3D LiDAR, and GNSS, deploying ROS and Autoware on Jetson Xavier NX, combined with high-precision map information, to achieve automatic driving of the sweeper on the campus road, automatic sweeping and covering sweeping
-- 技术栈 Tech Stack:  
-  CAN通信，ROS，3D-SLAM，激光雷达，MATLAB，Qt，自动驾驶，C++  
-  CAN communication, ROS, 3D-SLAM, LiDAR, MATLAB, Qt, Autonomous Driving, C++
-- 相关仓库 Related Repositories:  
-  [![MapToolbox_ForRoadSweeper](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=MapToolbox_ForRoadSweeper)](https://github.com/wang-ruifan/MapToolbox_ForRoadSweeper)
-
-### 基于飞腾派的建图小车 | 2024.03-2024.08
-- 项目介绍 Project Introduction：  
-  使用飞腾派，单线激光雷达与阿克曼结构底盘，利用飞腾处理器多核异构，利用一个主控板同时控制底盘(FreeRTOS)与运行ROS框架，使用PID控制器控制底盘，基于OpenAMP框架进行核间通信，通过ROS与Cartographer建图，实现小车在室内环境的自主建图与定位  
-  Using PhytiumPi, single-line LiDAR, and Ackermann structure chassis, utilizing Phytium processor multi-core heterogeneous, using a main control board to control the chassis and run the ROS framework at the same time, using PID controller to control the chassis, based on OpenAMP framework for inter-core communication, through ROS and Cartographer mapping, to achieve autonomous mapping and positioning of the car in the indoor environment
-- 技术栈 Tech Stack:  
-  多核异构，核间通信，硬件驱动，FreeRTOS，ROS，Cartographer，Qt，激光雷达，SLAM，PID控制，C，C++  
-  Multi-core heterogeneous, inter-core communication, hardware drive, FreeRTOS, ROS, Cartographer, Qt, LiDAR, SLAM, PID control, C, C++
-- 相关仓库 Related Repositories:  
-  [![2DSLAMCar-BasedOn-Phytiumpi](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=2DSLAMCar-BasedOn-Phytiumpi)](https://github.com/wang-ruifan/2DSLAMCar-BasedOn-Phytiumpi)
-
 ## 🤖 专业方向 Specialization
 
 我专注于自动驾驶和机器人系统开发，包括：
+I focus on the development of autonomous driving and robot systems, including:
 
-- SLAM与环境感知
-- 路径规划与控制
-- 嵌入式系统开发
-- 应用软件开发
+- SLAM与环境感知 SLAM and Environment Perception
+- 路径规划与控制 Path Planning and Control
+- 嵌入式系统开发 Embedded System Development
+- 应用软件开发 Application Software Development
 
 ## 🌐 语言能力 Language Skills
 
 - 🇨🇳 中文 Chinese: 母语 Native
 - 🇬🇧 英文 English: 熟练 Proficient  
   雅思 IELTS: 7, 大学英语四级 CET-4: 579, 大学英语六级 CET-6: 496
+
+## 🚀 项目经验 Projects
+
+### 小型自动驾驶清扫车 Small Autonomous Driving Sweeper | 2024.09-2025.03  
+
+- 项目介绍 Project Introduction：  
+  使用线控底盘、3D激光雷达与GNSS，在Jetson Xavier NX上部署ROS与Autoware，结合高精地图信息，通过CAN控制底盘实现清扫车在校园内路面的自动驾驶，自动清扫与覆盖式清扫  
+  Using a drive-by-wire chassis, 3D LiDAR, and GNSS, deploying ROS and Autoware on Jetson Xavier NX, combined with high-precision map information, to achieve automatic driving of the sweeper on the campus road, automatic sweeping and covering sweeping
+- 相关仓库 Related Repositories:  
+  [![Road-sweeper](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Road-sweeper)](https://github.com/wang-ruifan/Road-sweeper)
+  [![CCPP-BasedOn-VectorMap](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=CCPP-BasedOn-VectorMap)](https://github.com/wang-ruifan/CCPP-BasedOn-VectorMap)
+  [![MapToolbox_ForRoadSweeper](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=MapToolbox_ForRoadSweeper)](https://github.com/wang-ruifan/MapToolbox_ForRoadSweeper)
+
+### 基于飞腾派的建图小车 2D SLAM Car Based On Phytiumpi | 2024.03-2024.09  
+
+- 项目介绍 Project Introduction：  
+  使用飞腾派，单线激光雷达与阿克曼结构底盘，利用飞腾处理器多核异构，实现一个主控板同时控制底盘(FreeRTOS)与运行ROS框架，实现小车在室内环境的自主建图与定位  
+  Using Phytiumpi, single-line LiDAR, and Ackerman structure chassis, utilizing Phytium processor multi-core heterogeneous, realizing a main control board to control the chassis(FreeRTOS) and run ROS framework at the same time, achieving autonomous mapping and positioning of the car in the indoor environment
+- 相关仓库 Related Repositories:  
+  [![2DSLAMCar-BasedOn-Phytiumpi](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=2DSLAMCar-BasedOn-Phytiumpi)](https://github.com/wang-ruifan/2DSLAMCar-BasedOn-Phytiumpi)
+
+### 打印机上位机与下位机 Printer Host and Slave | 2024.07-2024.09
+
+- 项目介绍 Project Introduction：  
+  Windows Qt上位机，Android上位机与FPGA Arm核Linux下位机通过TCP/IP通信，实现打印机的远程控制
+  Windows Qt host, Android host, and FPGA Arm core Linux slave communicate via TCP/IP to remotely control the printer
+
+- 相关仓库 Related Repositories:
+  [![Aijet-windows-qt-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-windows-qt-host)](https://github.com/wang-ruifan/Aijet-windows-qt-host)
+  [![Aijet-android-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-android-host)](https://github.com/wang-ruifan/Aijet-android-host)
+  [![Aijet-fpga-arm-server](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-fpga-arm-server)](https://github.com/wang-ruifan/Aijet-fpga-arm-server)
+
+## 🧩 其他作品 Other Works
+
+### 基于LabVIEW的原神-打石头小游戏 Genshin HitTheRock game based on LabVIEW | 2024.4-2024.7  
+  [![Genshin-HitTheRock](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Genshin-HitTheRock)](https://github.com/wang-ruifan/Genshin-HitTheRock)
+
+### Android科学计算器 Scientific Calculator For Android | 2023.08-2023.12  
+  [![Scientific-Calculator-ForAndroid](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Scientific-Calculator-ForAndroid)](https://github.com/wang-ruifan/Scientific-Calculator-ForAndroid)
 
 ## 📫 联系我 Contact me  
 
