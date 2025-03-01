@@ -4,13 +4,13 @@
 </p>
 
 <p align = "center">
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-  ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+  <img src = "https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src = "https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white">
+  <img src = "https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white">
+  <img src = "https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=white">
+  <img src = "https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
 </p>
 
 # Hello！ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -71,13 +71,16 @@ I’m currently learning to deploy autonomous driving systems using Jetson, 3D L
 
 ## 🤖 专业方向 Specialization
 
-我专注于自动驾驶和机器人系统开发，包括：
-I focus on the development of autonomous driving and robot systems, including:
+我专注于机器人系统与应用开发，包括：  
+I focus on robot system and application development, including:
 
-- SLAM与环境感知 SLAM and Environment Perception
-- 路径规划与控制 Path Planning and Control
-- 嵌入式系统开发 Embedded System Development
-- 应用软件开发 Application Software Development
+|  |  |
+|------|---------|
+| SLAM与环境感知 | SLAM and Environment Perception |
+| 路径规划与控制 | Path Planning and Control |
+| 嵌入式系统开发 | Embedded System Development |
+| 应用软件开发 | Application Software Development |
+| 机器人系统集成与测试 | Robot System Integration and Testing |
 
 ## 🌐 语言能力 Language Skills
 
