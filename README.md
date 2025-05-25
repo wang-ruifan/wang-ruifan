@@ -112,18 +112,15 @@ I focus on robot system and application development, including:
   Windows Qt上位机，Android上位机与FPGA Arm核Linux下位机通过TCP/IP通信，实现打印机的远程控制  
   Windows Qt host, Android host, and FPGA Arm core Linux slave communicate via TCP/IP to remotely control the printer
 
-- 相关仓库 Related Repositories (private):
-  [![Aijet-windows-qt-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-windows-qt-host)](https://github.com/wang-ruifan/Aijet-windows-qt-host)
-  [![Aijet-android-host](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-android-host)](https://github.com/wang-ruifan/Aijet-android-host)
-  [![Aijet-fpga-arm-server](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Aijet-fpga-arm-server)](https://github.com/wang-ruifan/Aijet-fpga-arm-server)
+- 相关仓库为私人的 Related Repositories are private
 
 ## 🧩 其他作品 Other Works
 
 ### 基于LabVIEW的原神-打石头小游戏 Genshin HitTheRock game based on LabVIEW | 2024.4-2024.7  
   [![Genshin-HitTheRock](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Genshin-HitTheRock)](https://github.com/wang-ruifan/Genshin-HitTheRock)
 
-### Android科学计算器 Scientific Calculator For Android | 2023.08-2023.12  
-  [![Scientific-Calculator-ForAndroid](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Scientific-Calculator-ForAndroid)](https://github.com/wang-ruifan/Scientific-Calculator-ForAndroid)
+### Android多功能计算器 Multifunc Calculator On Android | 2023.08-now  
+  [![Scientific-Calculator-ForAndroid](https://github-readme-stats.vercel.app/api/pin/?username=wang-ruifan&repo=Multifunc-Calculator-OnAndroid)](https://github.com/wang-ruifan/Multifunc-Calculator-OnAndroid)
 
 ## 📫 联系我 Contact me  
 
